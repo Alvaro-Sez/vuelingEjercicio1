@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cLNjerPihlXZA1EwWlcEHeUaQw5JQBGe0mKbkWHvMf0IYngbwIZR7VQU03WX7TBaiPO/mNCgjSAq1nS4Nmo+JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alvaro\\Desktop\\Ejercicios University\\VuelingBooking\\VuelingBooking\\VuelingBooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alvaro\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\Alvaro\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
